@@ -1,0 +1,14 @@
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\AdminUI\bin\Debug\AdminUI.exe.config
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\AdminUI\bin\Debug\AdminUI.exe
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\AdminUI\bin\Debug\AdminUI.pdb
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\AdminUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\AdminUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\AdminUI\obj\Debug\AdminUI.csproj.AssemblyReference.cache
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\AdminUI\obj\Debug\AdminUI.TEST.resources
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\AdminUI\obj\Debug\AdminUI.Properties.Resources.resources
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\AdminUI\obj\Debug\AdminUI.csproj.GenerateResource.cache
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\AdminUI\obj\Debug\AdminUI.csproj.CoreCompileInputs.cache
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\AdminUI\obj\Debug\AdminUI.csproj.CopyComplete
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\AdminUI\obj\Debug\AdminUI.exe
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\AdminUI\obj\Debug\AdminUI.pdb
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\AdminUI\obj\Debug\AdminUI.Create.Form2.resources

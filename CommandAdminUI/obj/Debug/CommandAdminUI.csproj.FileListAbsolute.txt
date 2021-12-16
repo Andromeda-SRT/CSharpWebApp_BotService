@@ -1,0 +1,15 @@
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\CommandAdminUI\bin\Debug\CommandAdminUI.exe.config
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\CommandAdminUI\bin\Debug\CommandAdminUI.exe
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\CommandAdminUI\bin\Debug\CommandAdminUI.pdb
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\CommandAdminUI\obj\Debug\CommandAdminUI.csproj.AssemblyReference.cache
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\CommandAdminUI\obj\Debug\CommandAdminUI.Properties.Resources.resources
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\CommandAdminUI\obj\Debug\CommandAdminUI.csproj.GenerateResource.cache
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\CommandAdminUI\obj\Debug\CommandAdminUI.csproj.CoreCompileInputs.cache
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\CommandAdminUI\obj\Debug\CommandAdminUI.exe
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\CommandAdminUI\obj\Debug\CommandAdminUI.pdb
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\CommandAdminUI\obj\Debug\CommandAdminUI.mainForm.resources
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\CommandAdminUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\CommandAdminUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\CommandAdminUI\obj\Debug\CommandAdminUI.csproj.CopyComplete
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\CommandAdminUI\obj\Debug\CommandAdminUI.EditCommand.EditCommandForm.resources
+C:\Users\Andromeda\Documents\WebApplication\mainSolutionSPL\CommandAdminUI\obj\Debug\CommandAdminUI.CreateCommand.CreateCommandForm.resources
